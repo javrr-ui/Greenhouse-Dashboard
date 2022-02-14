@@ -7,4 +7,4 @@
 - Se obtienen lecturas de dos sensores de humedad y un sensor de temperatura.
 - Se puede controlar el encendido y apagado de un ventilador, una electroválvula y de los sensores de humedad.
 
-Código utilizado en el Arduino: https://github.com/javrr-ui/lombricompost-arduino
+Código utilizado en el Arduino: <https://github.com/javrr-ui/lombricompost-arduino>
